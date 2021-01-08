@@ -1,2 +1,2 @@
 # image
-My image for project Nx
+My images for project Nx
